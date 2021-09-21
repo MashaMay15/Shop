@@ -735,3 +735,93 @@ top: -20px;
     top: -450px;
     right: -130px;
 }
+ 
+
+/* registration page */
+.registration__join {
+    margin-left: 230px;
+}
+.registration__inputs {
+display: flex;
+flex-direction: column;
+}
+.login_details {
+    display: flex;
+    flex-direction: column;
+}
+.button_join {
+        font-size: 16px;
+    line-height: 19px;
+    color: white;
+    font-family: 'Lato',sans-serif;
+    text-decoration: none;
+    border: 1px solid #F26376 ;
+    background-color: #F26376;
+    padding: 16px 29px;
+    display: inline-block;
+    margin-bottom:42px;
+    margin-left: 43px;
+    max-width: 150px;
+}
+.img__join {
+    margin-left: 20px;
+}
+.paragraf_name {
+    margin-top: 64px;
+    margin-bottom: 20px;
+    font-family: 'Lato',sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 19px;
+}
+.radio {
+    margin-top: 31px;
+    margin-bottom: 33px;
+    
+}
+.paragraf__textafterlogin {
+    max-width: 359px;
+    margin-bottom: 39px;
+    font-family: 'Lato',sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 13px;
+line-height: 16px;
+
+color: #B1B1B1;
+
+}
+.benefits {
+  position: relative;
+  left:718px ;
+  bottom: 670px;
+}
+.registration_benefits {
+    display: flex;
+    font-family: 'Lato',sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    margin-bottom: 16px;
+    max-width: 600px;
+
+}
+.heat_loyal {
+    font-family: 'Lato',sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+margin-bottom: 22px;
+}
+.paragraf_afterloyal {
+    font-family: 'Lato',sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    max-width: 630px;
+    margin-bottom: 21px;
+}
